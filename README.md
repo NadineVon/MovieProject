@@ -3,7 +3,7 @@
 [Problem Statement](#problem-statement)
 [Data Source](#data-source)
 [Tools](#Tools)
-[]
+[Dashboard](#Dashboard)
 []
 ### Problem Statement
 Netflix wants to better understand which movie they should produce next, including the most suitable actors and directors. We have a dataset containing movie budgets, box office performance, actors, directors, and genres. Your task is to build an Excel dashboard that provides insights into this dataset. The dashboard should help identify:
@@ -80,3 +80,7 @@ let
 in
     #"Changed Type2"
 ```
+### Recomendations
+Top 5 genres are Actions, Comedy, Drama, Sci-Fi, Family. I would recommend Netflix to produce a movie with one of these genres as they brought in more in box office revenue based on the data from 2012 to 2016
+
+<img width="293" height="133" alt="image" src="https://github.com/user-attachments/assets/31a8ca5e-b4c5-4274-91ab-6feedeb1e698" />
