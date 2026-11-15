@@ -37,6 +37,7 @@ You can download the original datasource here:[Movie Dataset Excel file](https:/
 <img width="793" height="683" alt="image" src="https://github.com/user-attachments/assets/c4ee3955-999a-4696-9dde-231a96246779" />
 ### M Code
 
+
 ```
 let
     Source = Excel.Workbook(File.Contents("C:\Users\nadin\OneDrive\Рабочий стол\Data Analyst\Movies_Data_Homework.xlsx"), null, true),
