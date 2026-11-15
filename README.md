@@ -81,7 +81,7 @@ let
 in
     #"Changed Type2"
 ```
-### Recomendations
+### Recommendations
 Top 5 genres are Actions, Comedy, Drama, Sci-Fi, Family. I would recommend Netflix to produce a movie with one of these genres as they brought in more in box office revenue based on the data from 2012 to 2016
 
 <img width="293" height="133" alt="image" src="https://github.com/user-attachments/assets/31a8ca5e-b4c5-4274-91ab-6feedeb1e698" />
